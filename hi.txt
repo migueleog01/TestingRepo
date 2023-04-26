@@ -1,0 +1,113 @@
+
+
+
+
+
+default
+
+hungry = 4
+sleepy = 0
+bored = 4
+happiness = 4
+time = 0
+
+
+
+user selects to play
+/////// 
+
+1st. played
+2nd. ate
+3rd. sleep
+
+
+DOG
+
+
+    hungry = 4
+    sleepy = 0
+    bored = 4
+    happiness = 4
+    time = 0
+
+hungry  = 6 //                      ////played
+sleepy = 4 //
+bored = 2 // 
+happiness = 6
+time = 2 hrs
+
+outout PET IS HUNGRY
+
+OUTPUT "DOG IS HUNGRY!"
+
+(dog eats)                            ////ate
+hungry = 2
+sleepy = 6
+bored = 2
+happiness = 8
+time = 4 hrs
+
+
+hungry = 4                            ////sleep
+sleepy = 0;
+bored = 4;
+happiness = 6;
+time = 6 hrs
+
+
+
+what do you want to play fetch or tag
+play(string play)
+{
+    if(play == "fetch")
+    {
+        happiness += 2;
+    }
+    else if()
+    {
+        happiness += 4;
+    }
+
+}
+
+
+
+
+
+
+    hungry = 2
+    sleepy = 2
+    bored = 2
+    happiness = 2
+    time = 0
+
+
+your pet is hungry!
+your pet is bored!
+
+do you want to feed or play?
+
+play
+
+    0_______________10
+not bored          bored
+
+    hungry = 5
+    sleepy = 10
+    bored = 0
+    happiness = 7 
+    time = 2 hrs
+
+
+
+HOW WILL THE GAME GO.
+
+
+user picks pet,
+he will decide what game to play with pet
+1. Chase the Prey
+2. Hide the Treat or Hide & Seek.
+3. Fetch.
+4. Tug of War.
+
+

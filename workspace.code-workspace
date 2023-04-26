@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "Final Project Tamagotchi Pet Game",
+			"path": "..\\Final Project Tamagotchi Pet Game"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\unit 5 test practice"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
